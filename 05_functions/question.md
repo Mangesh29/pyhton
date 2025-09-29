@@ -26,30 +26,32 @@ Problem: Write a function to calculate and return the square of a number.
 <details>
 <summary>5.Default Parameter Values
 </summary>
- Problem: Suggest an activity based on the weather(e.g., Sunny- GO for a walk, Rainy - Read a book, Snowy-Build a snowman).
+ Problem: Write a function that greets a user . if no name is provided, it should greet with a default name.
 </details>
 <details>
 <summary>6.Lambda Function
 </summary>
- Problem: Choose a mode of transporttation based on the distance(e.g., <3km:Walk 3-15 km,:Bike,>15km:Car>).
+ Problem:Create a lambda function to compute the cube of a number.
 </details>
 <details>
 <summary>7.Function with *args
 </summary>
- Problem: Customize a coffee order:"Small", "Medium",or"Large" with an option for "EXtra shot" of espresso.
+ Problem:Write a function that takes variable number of arguments and returns their sum.
 </details>
 <details>
 <summary>8.Function with **kwargs
 </summary>
- Problem:  Check if a password is "Weak", "Medium",or"Strong", Criteria :< 6chars (Weak),6-10chars
- medium, >10 chars(strong)</details>
+ Problem: create a function that any number of keyword arguments and prints them in the format 
+ key: value.
+ 
+ </details>
 <details>
 <summary>9.Generator Function with yield
 </summary>
- Problem: Determine if a year is a loap year (Leap years are divisible by 4, but not by 100 unless also divisible by 400) .
+ Problem:Write a generator function that yields even numbers up to a specified limit.
 </details>
 <details>
 <summary>10.Recursive Function
 </summary>
- Problem:  Reconmmendation a type of pet food based on the pet's spesies and age.(e.g., Dog :< 2 years-Puppy food,cat: 5>years -Senior cat food).
+ Problem: Create  a recursive function to calculate the factorial of a  number.
 </details>
