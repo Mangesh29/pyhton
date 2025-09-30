@@ -1,4 +1,4 @@
-Mark=88
+Mark=int(input("Enter your mark: "))
 
 if Mark >= 101:
     print("Please verify your grade again")
@@ -6,7 +6,7 @@ if Mark >= 101:
    
 
 if Mark >=90:
-    grade ="A"
+    grade ="A" 
 elif Mark >=80:
     grade = "B"   
 elif Mark >=70:

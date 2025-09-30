@@ -39,19 +39,18 @@ Problem: Create a Car class with attributes like brand and model. Then create an
  Problem:Add a static method to Car class that returns a general description od car
 </details>
 <details>
-<summary>8.Function with **kwargs
+<summary>8.Property Decorators
 </summary>
- Problem: create a function that any number of keyword arguments and prints them in the format 
- key: value.
+ Problem: Use a property decorator in the Car class to make the model attribute read-only.
  
  </details>
 <details>
-<summary>9.Generator Function with yield
+<summary>9.Class Inheritance and isinstance()Function
 </summary>
- Problem:Write a generator function that yields even numbers up to a specified limit.
+ Problem: Demonstrate the use of isinstance()to check if my_tesla is an instance od Car and ElectricCar.
 </details>
 <details>
-<summary>10.Recursive Function
+<summary>10. Multipal Inheritance
 </summary>
- Problem: Create  a recursive function to calculate the factorial of a  number.
+ Problem:Create two classes Battery and Engine, and let the ElectricCar class inherit from both, demonstrating multiple inheritance.
 </details>
