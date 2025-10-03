@@ -16,5 +16,5 @@ Problem: Write a decorators that measures the time a function takes to exeute.
 <details>
 <summary>3.Cache Return Values
 </summary>
- Problem: Create an Electric class that inherits from the Car class and has an additional attribute battery_size.
+ Problem:Implement a decorator that caches the return values of a function, so that when it's called with the same arguments, the cached value is returned instead of re-exeution the function.
 </details>
