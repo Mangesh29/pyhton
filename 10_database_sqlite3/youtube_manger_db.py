@@ -65,7 +65,7 @@ def main():
             video_id= input("Enter video ID to update :")
 
             name=input("Enter the videos name")
-            time=input("Enter the video time")
+            time=input("Enter the video time") 
             update_video(video_id, name, time)
 
         elif choice == '4':
